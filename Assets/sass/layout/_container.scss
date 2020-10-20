@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)   ;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+    float: left;
+    margin-left: 100px;
+    box-sizing: content-box;
+}
+
+
+.container__cabecera {
+    width: 210px;
+}
+
+.container__cuerpo img {
+    width: 300px;
+    
+}
+
+.container__cuerpo p {
+    width: 300px;
+}
