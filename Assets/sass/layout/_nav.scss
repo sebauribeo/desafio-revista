@@ -1,34 +1,30 @@
 .nav {
     margin: 0;
+
+    &__menu {
+        width: 100%;
+        height: 100px;
+        padding: 10px;
+        border-bottom: 1px solid gray;
+        box-sizing: border-box;
+    }
+    
+    &__logo {
+        font-weight: bold;
+        text-transform: uppercase;
+        display: inline-block;
+    }
+    
+    &__nav {
+        display: inline;
+        width: auto;
+        float: right;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    
+    &__input-menu {
+        border-radius: 30px;
+    }
 }
 
-.nav__menu {
-    width: 100%;
-    height: 100px;
-    padding: 10px;
-    border-bottom: 1px solid gray;
-    box-sizing: border-box;
-}
-
-.nav__logo {
-    font-size: 30px;
-    font-weight: bold;
-    text-transform: uppercase;
-    display: inline-block;
-    margin-left: 50px;
-    margin-top: 30px;
-
-}
-
-.nav__nav {
-    display: inline;
-    width: auto;
-    float: right;
-    margin-right: 50px;
-    margin-top: 30px;
-}
-
-
-.nav__input-menu {
-    border-radius: 30px;
-}
