@@ -1,5 +1,5 @@
 @media (max-width: 575.98px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\000032}}
   .container {
     display: grid;
     grid-template-columns: 1fr;
@@ -7,52 +7,52 @@
     grid-gap: 10px;
     margin: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\000039}}
   .section, .nav__nosotros {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000312}}
   .nav__logo {
     font-size: 20px;
     margin-left: 0px;
     margin-top: 15px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000318}}
   .nav__input-menu {
     border-radius: 30px;
     width: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000322}}
   .nav__nav {
     margin-right: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000326}}
   .nav__logo {
     font-size: 30px; } }
 @media (min-width: 576px) and (max-width: 767.98px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000335}}
   .container {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000341}}
   .section, .nav__nosotros {
     display: none; } }
 @media (min-width: 768px) and (max-width: 991.98px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000347}}
   .container {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000353}}
   .section, .nav__nosotros {
     display: none; } }
 @media (min-width: 992px) and (max-width: 1199.98px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000359}}
   .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -60,61 +60,61 @@
     grid-gap: 10px;
     margin: 0 100px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000367}}
   .section, .nav__nosotros {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000370}}
   .nav__logo {
     font-size: 40px; } }
 @media (min-width: 1200px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000377}}
   .container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: auto auto auto;
     grid-template-rows: 1fr 1fr;
     grid-gap: 10px;
-    margin: 0 100px; }
+    margin: 0 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000385}}
   .nav__logo {
     margin-left: 50px;
     margin-top: 15px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000390}}
   .nav__nav {
     margin-right: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/abstracts\/_mediaquery\.scss}line{font-family:\0000394}}
   .nav__logo {
     font-size: 40px; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/base\/_reset\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/base\/_reset\.scss}line{font-family:\000031}}
 * {
   list-style: none;
   font-family: monospace;
   -webkit-box-sizing: content-box;
           box-sizing: content-box; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/base\/_reset\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/base\/_reset\.scss}line{font-family:\000037}}
 p {
-  font-size: 20px; }
+  font-size: 18px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\000031}}
 .container {
   display: grid;
-  grid-gap: 20px;
-  float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\000036}}
+  float: left;
+  margin-top: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\000036}}
   .container__cabecera {
-    width: 210px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\000039}}
+    width: 200px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\000039}}
   .container__cuerpo img {
-    width: 320px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\0000313}}
+    width: 300px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_container\.scss}line{font-family:\0000313}}
   .container__cuerpo p {
     width: 300px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_footer\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_footer\.scss}line{font-family:\000032}}
 .footer {
   width: 100%;
   display: inline;
@@ -122,18 +122,18 @@ p {
   -webkit-box-sizing: content-box;
           box-sizing: content-box; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_footer\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_footer\.scss}line{font-family:\000039}}
 .footer p {
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_main\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_main\.scss}line{font-family:\000031}}
 .main {
   width: 960px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\000031}}
 .nav {
   margin: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\000034}}
   .nav__menu {
     width: 100%;
     height: 100px;
@@ -141,23 +141,23 @@ p {
     border-bottom: 1px solid gray;
     -webkit-box-sizing: border-box;
             box-sizing: border-box; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\0000312}}
   .nav__logo {
     font-weight: bold;
     text-transform: uppercase;
     display: inline-block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\0000318}}
   .nav__nav {
     display: inline;
     width: auto;
     float: right;
     margin-top: 20px;
     font-size: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_nav\.scss}line{font-family:\0000326}}
   .nav__input-menu {
     border-radius: 30px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\000031}}
 .newsletter {
   width: 100%;
   background-color: #f2f4f5;
@@ -168,38 +168,36 @@ p {
   -webkit-box-sizing: content-box;
           box-sizing: content-box; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\0000311}}
 .newsletter h2 {
   font-size: 24px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\0000315}}
 .newsletter__group input, .newsletter__group button {
   display: inline-block;
   border-width: 0;
   font-size: 13px;
   padding: 5px 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_newsletter\.scss}line{font-family:\0000323}}
 .newsletter__group button {
   background-color: coral;
   color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\000031}}
 .section {
-  margin-right: -60px;
-  width: 350px;
+  width: 300px;
   margin: 20px;
   float: right;
-  position: relative;
-  margin-right: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\000039}}
+  margin-top: -1230px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\000037}}
   .section__cabecera {
     border-bottom: 1px solid gray; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\0000311}}
   .section__tags {
     border-bottom: 1px solid gray;
     height: 90px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\0000316}}
   .section__tags a {
     color: white;
     padding: 1px 4px;
@@ -207,9 +205,9 @@ p {
     margin-right: 1px;
     float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/DESAFIOS\/DesafioRevista\/Assets\/sass\/layout\/_section\.scss}line{font-family:\0000329}}
 .section img {
-  width: 100%;
-  height: 220px; }
+  width: 280px;
+  height: 180px; }
 
 /*# sourceMappingURL=main.css.map */

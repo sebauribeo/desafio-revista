@@ -1,13 +1,13 @@
 .container {
     display: grid;
-    grid-gap: 20px;
     float: left;
+    margin-top: 100px;
     
     &__cabecera {
-        width: 210px;
+        width: 200px;
     }
     &__cuerpo img {
-        width: 320px;
+        width: 300px;
         
     }
     &__cuerpo p {
